@@ -1,0 +1,19 @@
+# HavenDOS package: boot-lang v0.1.0
+NAME BOOT Language
+VERSION 0.1.0
+DESC TechHaven BOOT programming language
+
+FILE HOME/BOOT_README.TXT
+BOOT Language installed.
+
+Quick start:
+  boot              - open BOOT REPL
+  boot HOME/GREET.BSH  - run a script
+
+Example script (save as HOME/TEST.BSH):
+  println "Hello!"
+  var x = 10
+  println x
+ENDFILE
+
+MSG BOOT Language ready. Type: boot

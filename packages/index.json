@@ -1,0 +1,29 @@
+{
+  "version": "1",
+  "packages": [
+    {
+      "id":      "hello-world",
+      "name":    "Hello World",
+      "version": "1.0.0",
+      "desc":    "Demo package - installs a greeting script",
+      "size_kb": 1,
+      "file":    "hello-world.bpkg"
+    },
+    {
+      "id":      "themes-extra",
+      "name":    "Themes Extra",
+      "version": "1.0.0",
+      "desc":    "10 additional colour themes",
+      "size_kb": 1,
+      "file":    "themes-extra.bpkg"
+    },
+    {
+      "id":      "boot-lang",
+      "name":    "BOOT Language",
+      "version": "0.1.0",
+      "desc":    "TechHaven BOOT programming language",
+      "size_kb": 1,
+      "file":    "boot-lang.bpkg"
+    }
+  ]
+}
